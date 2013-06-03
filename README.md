@@ -4,11 +4,11 @@ This example supports both tomcat and jetty maven plugin.
 
 1. start tomcat:
 
-mvn clean tomcat7:run
+	mvn clean tomcat7:run
 
 2. start jetty:
 
-mvn clean jetty:run
+	mvn clean jetty:run
 
 Access the following urls for testing CORS (ajax calls localhost):
 
